@@ -60,7 +60,7 @@ The following tools were used in this project:
 
 The first query finds the skills that appear most often in remote Data Engineer job postings.
 
-[Top 10 Demanded Skills](/PROJECT%20_EDA_1/01_top_demanded_skills.sql)
+[Top 10 Demanded Skills](01_top_demanded_skills.sql)
 
 * Filters for remote Data Engineer jobs.
 * Joins the job and skill tables.
@@ -73,7 +73,7 @@ The first query finds the skills that appear most often in remote Data Engineer 
 
 The second query finds which skills have the highest median salary.
 
-[Highest Paying Skills](/PROJECT%20_EDA_1/02_highest_paying_skills.sql)
+[Highest Paying Skills](02_highest_paying_skills.sql)
 
 * Calculates the median salary for each skill.
 * Only includes skills that appear in more than 100 job postings.
@@ -85,7 +85,7 @@ The second query finds which skills have the highest median salary.
 
 The final query combines demand and salary to identify valuable skills. It calculates:
 
-[Most Optimal Skills](/PROJECT%20_EDA_1/03_most_optimal_skills.sql)
+[Most Optimal Skills](03_most_optimal_skills.sql)
 
 * **Demand Count** – The number of job postings requiring each skill.
 * **Median Salary** – The middle salary value for each skill.
