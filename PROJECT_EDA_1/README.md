@@ -1,6 +1,6 @@
 # Exploratory Data Analysis With SQL: Job Market Analysis
 
-![Project 1 Overview](../PROJECT%20_EDA_1/images/1_1_Project1_EDA.png)
+![Project 1 Overview](images/1_1_Project1_EDA.png)
 
 ## Project Overview
 
@@ -40,7 +40,7 @@ The data comes from three tables:
 
 It analyzes a **data warehouse** built using a star schema design. The data warehouse structure consist of:
 
-![Data Warehouse](/PROJECT%20_EDA_1/images/1_2_Data_Warehouse.png)
+![Data Warehouse](images/1_2_Data_Warehouse.png)
 
 ---
 
